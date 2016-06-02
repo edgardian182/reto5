@@ -1,0 +1,22 @@
+Hyper Text Markup Language
+HTML
+Lenguaje usado para dar estilo a las paginas web
+CSS
+Nombre de pila creador de lenguaje Ruby
+YUKIHIRO
+Framework de código abierto para crear aplicaciones web escrito en Ruby
+RUBY ON RAILS
+Framework Front-end usado para crear sitios web compartido por Twitter
+BOOTSTRAP
+El resultado de: 2 + 5 * 10 + 27 + 22/2 - 4**2 + Segundos_en_una_hora.to_i
+3674
+Nombre del primer lenguaje de programación creado en el mundo
+FLOW-MATIC
+Nombre de las librerias en Ruby
+GEMAS
+Nombre dado a la acción de extender la funcionalidad de una clase en Ruby propia del lenguaje
+MONKEY PATCHING
+Es como una clase pero no se puede instanciar
+MODULO
+Error que ocurre cuando se llena el stack y evita la creación de más rutinas anidadas
+STACK OVERFLOW
